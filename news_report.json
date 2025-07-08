@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "eventId": "5353cbe3-a2ce-44ee-b90d-663e64db9c86",
+    "eventTimestamp": "2025-07-07T16:00:00Z",
+    "processedTimestamp": "2025-07-08T07:57:28.006283+00:00",
+    "ticker": "TSLA",
+    "companyName": "Tesla, Inc.",
+    "eventType": "EARNINGS_MISS_STRONG_GUIDANCE",
+    "headline": "Tesla Misses Q1 2025 Earnings and Revenue Expectations",
+    "summary": "Tesla, Inc. reported lower-than-expected earnings and revenue for Q1 2025, but its stock saw a slight increase after-hours due to renewed promises of an affordable EV model and continued investment in a future robotaxi fleet.",
+    "preliminaryImpact": "MODERATELY_NEGATIVE",
+    "reasoning": "Despite missing earnings, the stock's slight increase on future promises suggests a mixed but not severely negative market reaction.",
+    "source": "FXStreet",
+    "sourceUrl": "https://www.fxstreet.com/news/tesla-q1-2025-earnings-miss-expectations-202507071600"
+  },
+  {
+    "eventId": "7f47b527-4447-4f45-a528-8c62275c0bb7",
+    "eventTimestamp": "2025-07-07T10:00:00Z",
+    "processedTimestamp": "2025-07-08T07:57:28.006299+00:00",
+    "ticker": "NVDA",
+    "companyName": "NVIDIA Corporation",
+    "eventType": "UNSCHEDULED_NEGATIVE_EVENT",
+    "headline": "NVIDIA Incurs .5 Billion Charge Due to U.S. Export Ban on H20 AI Processors to China",
+    "summary": "NVIDIA Corporation announced a .5 billion charge resulting from the U.S. export ban on H20 AI processors to China.",
+    "preliminaryImpact": "HIGHLY_NEGATIVE",
+    "reasoning": "A .5 billion charge represents a significant financial impact due to regulatory actions, directly affecting the company's profitability.",
+    "source": "stockinvest.us",
+    "sourceUrl": "https://stockinvest.us/stock/NVDA"
+  }
+]
