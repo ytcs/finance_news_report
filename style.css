@@ -1,0 +1,191 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1em 0;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+#news-container {
+    display: block;
+}
+
+.news-card {
+    margin-bottom: 20px;
+}
+
+.news-card h2 {
+    margin-top: 0;
+    color: #0056b3;
+    font-size: 1.2em;
+}
+
+.news-card p {
+    font-size: 0.9em;
+    line-height: 1.6;
+}
+
+.news-card .ticker-info {
+    font-weight: bold;
+    color: #555;
+    margin-bottom: 10px;
+}
+
+.news-card .impact {
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 0.8em;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 10px;
+    align-self: flex-start;
+    margin-right: 10px; /* Add some spacing between tags */
+}
+
+.news-card .event-type {
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 0.8em;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: #e9ecef;
+    color: #495057;
+}
+
+.impact.highly-positive {
+    background-color: #d4edda;
+    color: #155724;
+}
+
+.impact.moderately-positive {
+    background-color: #e0f2f7;
+    color: #007bff;
+}
+
+.impact.moderately-negative {
+    background-color: #ffe0b2;
+    color: #e65100;
+}
+
+.impact.highly-negative {
+    background-color: #f5c6cb;
+    color: #721c24;
+}
+
+.news-card a {
+    color: #007bff;
+    text-decoration: none;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+.news-card a:hover {
+    text-decoration: underline;
+}
+
+#tabs-container {
+    max-width: 900px;
+    margin: 20px auto;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+#tab-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    border-bottom: 1px solid #ddd;
+}
+
+.tab-button {
+    padding: 15px 20px;
+    cursor: pointer;
+    background-color: #eee;
+    border: none;
+    outline: none;
+    font-weight: bold;
+    color: #555;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.tab-button:hover {
+    background-color: #e0e0e0;
+}
+
+.tab-button.active {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.tab-pane {
+    padding: 20px;
+    display: none;
+}
+
+.tab-pane.active {
+    display: block;
+}
+
+.filters-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-bottom: 20px;
+    padding: 10px 0;
+    border-bottom: 1px solid #eee;
+}
+
+.filter-group {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.filter-group h3 {
+    margin: 0;
+    font-size: 1em;
+    color: #555;
+}
+
+.filter-bubble {
+    padding: 8px 15px;
+    background-color: #f0f0f0;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 0.9em;
+    transition: all 0.3s ease;
+}
+
+.filter-bubble:hover {
+    background-color: #e0e0e0;
+}
+
+.filter-bubble.active {
+    background-color: #007bff;
+    color: #fff;
+    border-color: #007bff;
+}
+
+.event-type.negative-event {
+    background-color: #f8d7da;
+    color: #721c24;
+}
+
+.event-type.positive-event {
+    background-color: #d4edda;
+    color: #155724;
+} 
