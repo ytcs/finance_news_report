@@ -95,7 +95,7 @@ h1 {
 }
 
 #tabs-container {
-    max-width: 900px;
+    max-width: 90%; /* Changed from 900px to 90% */
     margin: 20px auto;
     background-color: #fff;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -188,4 +188,37 @@ h1 {
 .event-type.positive-event {
     background-color: #d4edda;
     color: #155724;
+}
+
+.tab-button.sentiment-positive {
+    background-color: #4CAF50; /* Green */
+    color: white;
+}
+
+.tab-button.sentiment-moderately-positive {
+    background-color: #8BC34A; /* Light Green */
+    color: white;
+}
+
+.tab-button.sentiment-neutral {
+    background-color: #eee;
+    color: #555;
+}
+
+.tab-button.sentiment-moderately-negative {
+    background-color: #FFCDD2; /* Light Red */
+    color: black;
+}
+
+.tab-button.sentiment-negative {
+    background-color: #F44336; /* Red */
+    color: white;
+}
+
+.tab-button.sentiment-positive.active,
+.tab-button.sentiment-moderately-positive.active,
+.tab-button.sentiment-neutral.active,
+.tab-button.sentiment-moderately-negative.active,
+.tab-button.sentiment-negative.active {
+    filter: brightness(85%);
 } 

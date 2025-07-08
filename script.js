@@ -25,16 +25,53 @@ document.addEventListener('DOMContentLoaded', () => {
                 return acc;
             }, {});
 
+            // Map preliminaryImpact to a numerical sentiment score
+            const sentimentScores = {
+                'HIGHLY_POSITIVE': 2,
+                'MODERATELY_POSITIVE': 1,
+                'NEUTRAL': 0,
+                'MODERATELY_NEGATIVE': -1,
+                'HIGHLY_NEGATIVE': -2
+            };
+
+            // Calculate overall sentiment for each ticker and store it
+            for (const ticker in groupedNews) {
+                const totalSentiment = groupedNews[ticker].reduce((sum, newsItem) => {
+                    return sum + (sentimentScores[newsItem.preliminaryImpact] || 0);
+                }, 0);
+                groupedNews[ticker].overallSentiment = totalSentiment / groupedNews[ticker].length;
+            }
+
+            // Sort tickers by overall sentiment in descending order
+            const sortedTickers = Object.keys(groupedNews).sort((a, b) => {
+                return groupedNews[b].overallSentiment - groupedNews[a].overallSentiment;
+            });
+
             let firstTicker = null;
 
-            for (const ticker in groupedNews) {
+            for (const ticker of sortedTickers) {
                 if (!firstTicker) {
                     firstTicker = ticker;
                 }
 
+                // Determine sentiment class for tab button
+                let sentimentClass = '';
+                const overallSentiment = groupedNews[ticker].overallSentiment;
+                if (overallSentiment >= 1.5) {
+                    sentimentClass = 'sentiment-positive';
+                } else if (overallSentiment >= 0.5) {
+                    sentimentClass = 'sentiment-moderately-positive';
+                } else if (overallSentiment >= -0.5) {
+                    sentimentClass = 'sentiment-neutral';
+                } else if (overallSentiment >= -1.5) {
+                    sentimentClass = 'sentiment-moderately-negative';
+                } else {
+                    sentimentClass = 'sentiment-negative';
+                }
+
                 // Create tab button
                 const button = document.createElement('button');
-                button.classList.add('tab-button');
+                button.classList.add('tab-button', sentimentClass);
                 button.textContent = ticker;
                 button.dataset.ticker = ticker;
                 tabButtonsContainer.appendChild(button);
