@@ -1,0 +1,41 @@
+[
+  {
+    "eventTimestamp": "2025-07-09T16:26:00Z",
+    "processedTimestamp": "2025-07-09T20:42:00Z",
+    "ticker": "PROK",
+    "companyName": "PROKIDNEY CORP.",
+    "eventType": "UNSCHEDULED_POSITIVE_EVENT",
+    "headline": "PROK Surges More Than 500% on Upbeat Data From Kidney Cell Therapy Study",
+    "summary": "ProKidney Corp. shares jumped over 500% after its kidney cell therapy showed strong efficacy in a Phase II diabetes-related CKD study.",
+    "preliminaryImpact": "HIGHLY_POSITIVE",
+    "reasoning": "Positive Phase II clinical trial results for a key therapy are a significant positive event, leading to a substantial stock price increase.",
+    "source": "Zacks",
+    "sourceUrl": "https://finance.yahoo.com/news/prok-surges-more-500-upbeat-162600708.html"
+  },
+  {
+    "eventTimestamp": "2025-07-09T14:15:26Z",
+    "processedTimestamp": "2025-07-09T20:42:31Z",
+    "ticker": "NVDA",
+    "companyName": "NVIDIA CORP",
+    "eventType": "UNSCHEDULED_POSITIVE_EVENT",
+    "headline": "Nvidia becomes first company to reach $4 trillion market value",
+    "summary": "Nvidia made history by becoming the first company to reach a $4 trillion market capitalization, solidifying its position as a top Wall Street stock.",
+    "preliminaryImpact": "HIGHLY_POSITIVE",
+    "reasoning": "Reaching a $4 trillion market cap is a significant milestone, indicating strong growth and market confidence in Nvidia's AI technology leadership.",
+    "source": "Yahoo Finance",
+    "sourceUrl": "https://finance.yahoo.com/news/nvidia-becomes-first-company-to-reach-4-trillion-market-value-141526534.html"
+  },
+  {
+    "eventTimestamp": "2025-07-09T18:21:58Z",
+    "processedTimestamp": "2025-07-09T20:43:00Z",
+    "ticker": "LCID",
+    "companyName": "Lucid Group, Inc.",
+    "eventType": "UNSCHEDULED_POSITIVE_EVENT",
+    "headline": "Lucid Group (LCID) Rises 9% After Bagging New World Record for Longest EV Journey in One Charge",
+    "summary": "Lucid Group's shares rose 9% after setting a Guinness World Record for the longest EV journey on a single charge.",
+    "preliminaryImpact": "MODERATELY_POSITIVE",
+    "reasoning": "Setting a world record for EV range is a positive product validation, boosting investor confidence and stock price.",
+    "source": "Insider Monkey",
+    "sourceUrl": "https://finance.yahoo.com/news/lucid-group-lcid-rises-9-182158337.html"
+  }
+]
