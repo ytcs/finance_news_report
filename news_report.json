@@ -1,0 +1,29 @@
+
+[
+  {
+    "eventTimestamp": "2025-07-08T00:00:00Z",
+    "processedTimestamp": "2025-07-09T12:00:00Z",
+    "ticker": "TSLA",
+    "companyName": "Tesla, Inc.",
+    "eventType": "UNSCHEDULED_NEGATIVE_EVENT",
+    "headline": "Tesla stock falls after Elon Musk announces new political party",
+    "summary": "Tesla's stock dropped nearly 7% after CEO Elon Musk announced the formation of a new political party, sparking investor concern over his focus on the company.",
+    "preliminaryImpact": "HIGHLY_NEGATIVE",
+    "reasoning": "The formation of a political party by the CEO introduces significant uncertainty and distraction, leading to a substantial drop in stock price as investors weigh the potential negative impacts on the company's leadership and brand.",
+    "source": "Al Jazeera",
+    "sourceUrl": "https://www.aljazeera.com/economy/2025/7/8/tesla-stock-falls-after-elon-musk-announces-new-political-party"
+  },
+  {
+    "eventTimestamp": "2025-07-09T00:00:00Z",
+    "processedTimestamp": "2025-07-09T12:00:00Z",
+    "ticker": "AMZN",
+    "companyName": "Amazon.com, Inc.",
+    "eventType": "UNSCHEDULED_NEGATIVE_EVENT",
+    "headline": "Amazon Prime Day sales down 14% in first four hours, stock drops",
+    "summary": "Early reports from Amazon's Prime Day event show a 14% decrease in sales compared to the previous year, leading to a nearly 2% drop in the company's stock price.",
+    "preliminaryImpact": "MODERATELY_NEGATIVE",
+    "reasoning": "The lower-than-expected sales for a key event like Prime Day indicate potential weakness in consumer spending and could impact the company's quarterly revenue, leading to a negative market reaction.",
+    "source": "Barchart",
+    "sourceUrl": "https://www.barchart.com/story/news/27750307/amazon-stock-is-a-buy-as-prime-day-kicks-off"
+  }
+]
