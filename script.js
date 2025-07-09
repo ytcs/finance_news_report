@@ -42,9 +42,35 @@ document.addEventListener('DOMContentLoaded', () => {
                 groupedNews[ticker].overallSentiment = totalSentiment / groupedNews[ticker].length;
             }
 
+            // Calculate and display overall market sentiment
+            const calculateOverallSentiment = () => {
+                const tickers = Object.keys(groupedNews);
+                if (tickers.length === 0) return 0;
+
+                const totalSentiment = tickers.reduce((sum, ticker) => {
+                    return sum + groupedNews[ticker].overallSentiment;
+                }, 0);
+
+                return totalSentiment / tickers.length;
+            };
+
+            const updateThermometer = (sentimentScore) => {
+                // Convert sentiment score from -2 to +2 range to 0-100% range
+                const percentage = ((sentimentScore + 2) / 4) * 100;
+                
+                const thermometerFill = document.getElementById('thermometer-fill');
+                
+                if (thermometerFill) {
+                    thermometerFill.style.width = `${percentage}%`;
+                }
+            };
+
+            const overallSentiment = calculateOverallSentiment();
+            updateThermometer(overallSentiment);
+
             // Sort tickers by overall sentiment in descending order
             const sortedTickers = Object.keys(groupedNews).sort((a, b) => {
-                return groupedNews[b].overallSentiment - groupedNews[a].overallSentiment;
+                return groupedNews[a].overallSentiment - groupedNews[b].overallSentiment;
             });
 
             let firstTicker = null;

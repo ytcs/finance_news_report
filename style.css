@@ -17,6 +17,92 @@ h1 {
     margin: 0;
 }
 
+/* Overall Sentiment Thermometer Styles */
+#overall-sentiment-container {
+    max-width: 500px; /* Made the card less wide */
+    margin: 20px auto;
+    background-color: transparent; /* Removed background color */
+    box-shadow: none; /* Removed box shadow */
+    border-radius: 8px;
+    padding: 0px; /* Reduced padding */
+    text-align: center;
+}
+
+#overall-sentiment-label {
+    font-size: 0.9em; /* Slightly smaller font size */
+    font-weight: normal;
+    color: #888; /* Lighter grey color */
+    margin-top: 10px; /* Increased margin to increase gap */
+    margin-bottom: 0px;
+}
+
+#thermometer-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 5px;
+}
+
+#thermometer-bar {
+    width: 100%;
+    max-width: 500px;
+    height: 20px; /* Adjusted height */
+    background: linear-gradient(to right, 
+        #F44336 0%, 
+        #FF9800 25%, 
+        #FFC107 50%, 
+        #8BC34A 75%, 
+        #4CAF50 100%);
+    border-radius: 10px; /* Adjusted border radius */
+    position: relative;
+    border: none; /* Removed border */
+    overflow: hidden;
+}
+
+#thermometer-fill {
+    height: 100%;
+    width: 0%;
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 10px;
+    transition: width 0.8s ease-in-out;
+    position: relative;
+}
+
+#thermometer-fill::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    right: -7px; /* Adjusted position */
+    transform: translateY(-50%);
+    width: 14px; /* Adjusted size */
+    height: 14px; /* Adjusted size */
+    background-color: #fff;
+    border: 1px solid #777; /* Adjusted border */
+    border-radius: 50%;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
+}
+
+#sentiment-scale {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 500px;
+    font-size: 0.8em; /* Increased font size for scale labels */
+    color: #777; /* Kept existing color or adjusted slightly if needed */
+}
+
+.scale-label {
+    text-align: center;
+    flex: 1;
+}
+
+#sentiment-value {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #333;
+}
+
 #news-container {
     display: block;
 }
