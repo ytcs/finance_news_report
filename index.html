@@ -8,23 +8,28 @@
 </head>
 <body>
     <header>
-        <h1 id="report-title"></h1>
+        <div class="header-content">
+            <h1 id="report-title"></h1>
+            <div id="overall-sentiment-container">
+                <div id="thermometer-container">
+                    <div id="thermometer-bar">
+                        <div id="thermometer-fill"></div>
+                    </div>
+                    <div id="sentiment-scale">
+                        <span class="scale-label">Very Negative</span>
+                        <span class="scale-label">Negative</span>
+                        <span class="scale-label">Neutral</span>
+                        <span class="scale-label">Positive</span>
+                        <span class="scale-label">Very Positive</span>
+                    </div>
+                </div>
+                <div id="overall-sentiment-label">Market Sentiment</div>
+            </div>
+        </div>
     </header>
     <main>
-        <div id="overall-sentiment-container">
-            <div id="thermometer-container">
-                <div id="thermometer-bar">
-                    <div id="thermometer-fill"></div>
-                </div>
-                <div id="sentiment-scale">
-                    <span class="scale-label">Very Negative</span>
-                    <span class="scale-label">Negative</span>
-                    <span class="scale-label">Neutral</span>
-                    <span class="scale-label">Positive</span>
-                    <span class="scale-label">Very Positive</span>
-                </div>
-            </div>
-            <div id="overall-sentiment-label">Market Sentiment</div>
+        <div id="global-filters-container" class="filters-container">
+            <div id="global-event-type-filter-bubbles" class="filter-group"></div>
         </div>
         <div id="tabs-container">
             <div id="tab-buttons"></div>

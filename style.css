@@ -9,30 +9,39 @@ body {
 header {
     background-color: #333;
     color: #fff;
-    padding: 1em 0;
-    text-align: center;
+    padding: 1em 20px; /* Adjusted padding for better spacing */
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%; /* Changed to 90% */
+    max-width: 1800px; /* Increased for wider screens */
+    margin: 0 auto; /* Center the content within the header */
 }
 
 h1 {
     margin: 0;
+    font-size: 1.8em; /* Adjusted font size */
 }
 
 /* Overall Sentiment Thermometer Styles */
 #overall-sentiment-container {
-    max-width: 500px; /* Made the card less wide */
-    margin: 20px auto;
-    background-color: transparent; /* Removed background color */
-    box-shadow: none; /* Removed box shadow */
+    width: 300px; /* Adjusted width for the thermometer */
+    margin: 0; /* Removed auto margin */
+    background-color: transparent;
+    box-shadow: none;
     border-radius: 8px;
-    padding: 0px; /* Reduced padding */
+    padding: 0px;
     text-align: center;
 }
 
 #overall-sentiment-label {
-    font-size: 0.9em; /* Slightly smaller font size */
+    font-size: 0.8em; /* Slightly smaller font size */
     font-weight: normal;
-    color: #888; /* Lighter grey color */
-    margin-top: 10px; /* Increased margin to increase gap */
+    color: #bbb; /* Lighter grey color for contrast on dark background */
+    margin-top: 5px; /* Reduced margin */
     margin-bottom: 0px;
 }
 
@@ -46,7 +55,7 @@ h1 {
 
 #thermometer-bar {
     width: 100%;
-    max-width: 500px;
+    max-width: 500px; /* Reverted to initial width */
     height: 20px; /* Adjusted height */
     background: linear-gradient(to right, 
         #F44336 0%, 
@@ -87,7 +96,7 @@ h1 {
     display: flex;
     justify-content: space-between;
     width: 100%;
-    max-width: 500px;
+    max-width: 500px; /* Reverted to initial width */
     font-size: 0.8em; /* Increased font size for scale labels */
     color: #777; /* Kept existing color or adjusted slightly if needed */
 }
@@ -181,7 +190,8 @@ h1 {
 }
 
 #tabs-container {
-    max-width: 90%; /* Changed from 900px to 90% */
+    width: 90%; /* Changed to 90% */
+    max-width: 1800px; /* Increased for wider screens */
     margin: 20px auto;
     background-color: #fff;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -211,8 +221,10 @@ h1 {
 }
 
 .tab-button.active {
-    background-color: #007bff;
-    color: #fff;
+    background-color: transparent; /* Removed background color */
+    color: #007bff; /* Changed text color to match border */
+    border-bottom: 3px solid #007bff; /* Thick bottom border */
+    padding-bottom: 12px; /* Adjusted padding to account for border thickness */
 }
 
 .tab-pane {
@@ -222,6 +234,12 @@ h1 {
 
 .tab-pane.active {
     display: block;
+}
+
+#global-filters-container {
+    width: 90%; /* Changed to 90% */
+    max-width: 1800px; /* Increased for wider screens */
+    margin: 20px auto;
 }
 
 .filters-container {
@@ -240,10 +258,19 @@ h1 {
     gap: 10px;
 }
 
-.filter-group h3 {
-    margin: 0;
-    font-size: 1em;
-    color: #555;
+.filter-group-section {
+    width: 100%; /* Ensure sections take full width for new rows */
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 10px; /* Space between sections */
+}
+
+.filter-group-section h4 {
+    width: 100%; /* Header takes full width */
+    margin: 0 0 5px 0;
+    font-size: 0.9em;
+    color: #666;
 }
 
 .filter-bubble {
@@ -261,9 +288,47 @@ h1 {
 }
 
 .filter-bubble.active {
-    background-color: #007bff;
+    border-color: #007bff; /* Default active border */
     color: #fff;
-    border-color: #007bff;
+}
+
+/* Positive Event Bubbles */
+.positive-event-bubble {
+    background-color: #e6ffe6; /* Light green */
+    color: #006400; /* Dark green text */
+    border: 1px solid #006400;
+}
+
+.positive-event-bubble.active {
+    background-color: #006400; /* Dark green active */
+    color: #fff;
+    border-color: #006400;
+}
+
+/* Negative Event Bubbles */
+.negative-event-bubble {
+    background-color: #ffe6e6; /* Light red */
+    color: #8B0000; /* Dark red text */
+    border: 1px solid #8B0000;
+}
+
+.negative-event-bubble.active {
+    background-color: #8B0000; /* Dark red active */
+    color: #fff;
+    border-color: #8B0000;
+}
+
+/* Neutral/Other Event Bubbles */
+.neutral-event-bubble {
+    background-color: #f0f0f0; /* Light gray */
+    color: #333; /* Dark gray text */
+    border: 1px solid #666;
+}
+
+.neutral-event-bubble.active {
+    background-color: #666; /* Dark gray active */
+    color: #fff;
+    border-color: #666;
 }
 
 .event-type.negative-event {
