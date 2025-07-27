@@ -217,9 +217,26 @@ document.addEventListener('DOMContentLoaded', () => {
                 const percentage = ((sentimentScore + 2) / 4) * 100;
                 
                 const thermometerFill = document.getElementById('thermometer-fill');
+                const overallSentimentLabel = document.getElementById('overall-sentiment-label');
                 
                 if (thermometerFill) {
                     thermometerFill.style.width = `${percentage}%`;
+                }
+
+                if (overallSentimentLabel) {
+                    let sentimentText = '';
+                    if (sentimentScore >= 1.5) {
+                        sentimentText = 'Very Positive';
+                    } else if (sentimentScore >= 0.5) {
+                        sentimentText = 'Positive';
+                    } else if (sentimentScore >= -0.5) {
+                        sentimentText = 'Neutral';
+                    } else if (sentimentScore >= -1.5) {
+                        sentimentText = 'Moderately Negative';
+                    } else {
+                        sentimentText = 'Highly Negative';
+                    }
+                    overallSentimentLabel.textContent = `Market Sentiment: ${sentimentText}`;
                 }
             };
 
