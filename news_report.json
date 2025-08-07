@@ -1,392 +1,314 @@
 [
   {
-    "eventTimestamp": "2025-08-05T19:33:12Z",
-    "processedTimestamp": "2025-08-05T21:09:33Z",
-    "ticker": "NVDA",
-    "companyName": "Nvidia Corp.",
-    "eventType": "REGULATORY_INVESTIGATION",
-    "headline": "Two Chinese nationals in California accused of illegally shipping Nvidia AI chips to China",
-    "summary": "Two Chinese nationals were arrested for illegally shipping Nvidia H100 AI chips to China without required licenses.",
-    "preliminaryImpact": "HIGHLY_NEGATIVE",
-    "reasoning": "The arrest of individuals for illegally shipping Nvidia's AI chips to China without proper licenses constitutes a significant regulatory and legal issue that could impact Nvidia's reputation and sales in the region.",
-    "source": "Reuters",
-    "sourceUrl": "https://ca.finance.yahoo.com/news/two-chinese-nationals-california-accused-193312577.html"
-  },
-  {
-    "eventTimestamp": "2025-08-04T20:10:43Z",
-    "processedTimestamp": "2025-08-05T21:09:33Z",
-    "ticker": "PLTR",
-    "companyName": "Palantir Technologies Inc.",
-    "eventType": "UNSCHEDULED_POSITIVE_EVENT",
-    "headline": "Palantir stock surges after company reports first billion-dollar quarter",
-    "summary": "Palantir Technologies Inc. reported its first billion-dollar revenue quarter, leading to a surge in its stock price.",
-    "preliminaryImpact": "HIGHLY_POSITIVE",
-    "reasoning": "Achieving a record billion-dollar revenue quarter is a significant financial milestone indicating strong growth and positive market reception, directly impacting investor confidence.",
-    "source": "Yahoo Finance",
-    "sourceUrl": "https://finance.yahoo.com/news/palantir-stock-surges-after-company-reports-first-billion-dollar-quarter-201043179.html"
-  },
-  {
-    "eventTimestamp": "2025-08-05T13:58:49Z",
-    "processedTimestamp": "2025-08-05T21:09:33Z",
-    "ticker": "HIMS",
-    "companyName": "Hims & Hers Health",
+    "eventTimestamp": "2025-08-06T15:28:25Z",
+    "processedTimestamp": "2025-08-07T00:51:59Z",
+    "ticker": "SNAP",
+    "companyName": "Snap Inc.",
     "eventType": "EARNINGS_MISS_STRONG_GUIDANCE",
-    "headline": "Hims & Hers stock slides 5% after second quarter revenue misses forecasts",
-    "summary": "Hims & Hers Health stock plunged after the telehealth company missed second quarter revenue estimates.",
+    "headline": "Snap stock plummets as ad platform glitch weighs on Q2 revenue, earnings",
+    "summary": "Snap Inc. stock plummeted after its Q2 earnings and revenue missed Wall Street's estimates due
+ to an ad platform glitch.",
     "preliminaryImpact": "HIGHLY_NEGATIVE",
-    "reasoning": "A significant miss in second-quarter revenue forecasts directly impacts the company's financial performance and investor confidence, leading to a sharp stock decline.",
+    "reasoning": "The significant drop in stock price and missed earnings/revenue estimates indicate a highly negative market reaction to the company's financial performance.",
     "source": "Yahoo Finance",
-    "sourceUrl": "https://finance.yahoo.com/news/hims--hers-stock-slides-5-after-second-quarter-revenue-misses-forecasts-135849164.html"
+    "sourceUrl": "https://finance.yahoo.com/news/snap-stock-plummets-as-ad-platform-glitch-weighs-on-q2-revenue-earnings-152825686.html"
   },
   {
-    "eventTimestamp": "2025-08-05T20:23:39Z",
-    "processedTimestamp": "2025-08-05T21:09:33Z",
-    "ticker": "PFE",
-    "companyName": "Pfizer",
-    "eventType": "UNSCHEDULED_POSITIVE_EVENT",
-    "headline": "Pfizer Smashes Earnings Forecasts And Raises Outlook; Shares Jump",
-    "summary": "Pfizer reported strong second-quarter earnings, beating forecasts and raising its full-year outlook, leading to a jump in shares.",
-    "preliminaryImpact": "HIGHLY_POSITIVE",
-    "reasoning": "Pfizer's strong Q2 earnings beat and raised outlook indicate robust financial performance and positive future prospects, leading to a significant positive market reaction.",
-    "source": "Investor's Business Daily",
-    "sourceUrl": "https://www.investors.com/news/technology/pfizer-stock-pfizer-earnings-q2-2025/?src=A00220&yptr=yahoo"
-  },
-  {
-    "eventTimestamp": "2025-08-05T15:55:43Z",
-    "processedTimestamp": "2025-08-05T21:09:33Z",
-    "ticker": "INTC",
-    "companyName": "Intel",
-    "eventType": "UNSCHEDULED_NEGATIVE_EVENT",
-    "headline": "Intel struggles with key manufacturing process for next PC chip, sources tell Reuters",
-    "summary": "Intel is facing significant hurdles with a key manufacturing process for its next PC chip, potentially impacting its ability to produce high-end, high-margin chips.",
-    "preliminaryImpact": "HIGHLY_NEGATIVE",
-    "reasoning": "Struggles with a key manufacturing process for future products can severely impact a company's competitive edge, production capabilities, and future revenue, leading to a highly negative impact.",
-    "source": "Reuters",
-    "sourceUrl": "https://finance.yahoo.com/news/intel-struggles-key-manufacturing-process-155543687.html"
-  },
-  {
-    "eventTimestamp": "2025-08-04T22:44:55Z",
-    "processedTimestamp": "2025-08-05T21:09:33Z",
-    "ticker": "INTC",
-    "companyName": "Intel",
-    "eventType": "CREDIT_RATING_DOWNGRADE",
-    "headline": "Intel's credit rating downgraded by Fitch on demand challenges",
-    "summary": "Fitch downgraded Intel's credit rating to BBB from BBB-plus due to challenges in maintaining product demand.",
-    "preliminaryImpact": "MODERATELY_NEGATIVE",
-    "reasoning": "A credit rating downgrade, especially due to demand challenges, can increase borrowing costs and signal underlying business weakness, leading to a moderately negative impact.",
-    "source": "Reuters",
-    "sourceUrl": "https://finance.yahoo.com/news/intels-credit-rating-downgraded-fitch-224455126.html"
-  },
-  {
-    "eventTimestamp": "2025-08-05T20:05:38Z",
-    "processedTimestamp": "2025-08-05T21:09:33Z",
-    "ticker": "LCID",
-    "companyName": "Lucid Group, Inc.",
-    "eventType": "EARNINGS_MISS_STRONG_GUIDANCE",
-    "headline": "Lucid Q2 results miss on both top and bottom lines; trims production forecast to 18K-20K EVs in 2025",
-    "summary": "Lucid Group missed second-quarter revenue and earnings estimates and trimmed its production forecast for 2025.",
-    "preliminaryImpact": "HIGHLY_NEGATIVE",
-    "reasoning": "Missing both revenue and earnings forecasts, coupled with a reduced production outlook, indicates significant operational and financial challenges, leading to a highly negative impact.",
-    "source": "Yahoo Finance",
-    "sourceUrl": "https://finance.yahoo.com/news/lucid-q2-results-miss-on-both-top-and-bottom-lines-trims-production-forecast-to-18k-20k-evs-in-2025-200538694.html"
-  },
-  {
-    "eventTimestamp": "2025-08-05T20:22:15Z",
-    "processedTimestamp": "2025-08-05T21:09:33Z",
+    "eventTimestamp": "2025-08-06T20:22:15Z",
+    "processedTimestamp": "2025-08-07T00:52:20Z",
     "ticker": "AMD",
     "companyName": "Advanced Micro Devices",
-    "eventType": "EARNINGS_BEAT_WEAK_GUIDANCE",
-    "headline": "AMD posts mixed Q2 results but offers better-than-expected Q3 outlook on AI sales",
-    "summary": "AMD reported mixed Q2 results with sales beating expectations but earnings slightly light, while offering a strong Q3 outlook driven by AI sales.",
-    "preliminaryImpact": "MODERATELY_POSITIVE",
-    "reasoning": "Despite mixed Q2 results, a strong Q3 outlook, particularly driven by AI sales, indicates positive future growth potential and investor confidence.",
+    "eventType": "EARNINGS_MISS_STRONG_GUIDANCE",
+    "headline": "AMD stock falls more than 6% on disappointing Q2 data center results",
+    "summary": "Advanced Micro Devices (AMD) stock fell more than 6% after reporting disappointing Q2 data center
+ results.",
+    "preliminaryImpact": "HIGHLY_NEGATIVE",
+    "reasoning": "The significant stock drop and disappointing results indicate a strong negative market reaction
+ to AMD's Q2 performance.",
     "source": "Yahoo Finance",
-    "sourceUrl": "https://finance.yahoo.com/news/amd-posts-mixed-q2-results-but-offers-better-than-expected-q3-outlook-on-ai-sales-202215280.html"
+    "sourceUrl": "https://finance.yahoo.com/news/amd-stock-falls-more-than-6-on-disappointing-q2-data-center-results-202215407.html"
   },
   {
-    "eventTimestamp": "2025-07-25T17:27:46Z",
-    "processedTimestamp": "2025-08-05T21:09:33Z",
+    "eventTimestamp": "2025-08-06T16:18:48Z",
+    "processedTimestamp": "2025-08-07T00:52:20Z",
+    "ticker": "LCID",
+    "companyName": "Lucid Group",
+    "eventType": "EARNINGS_MISS_STRONG_GUIDANCE",
+    "headline": "Lucid, Toast: Trending Tickers",
+    "summary": "Lucid (LCID) stock is under pressure after the electric vehicle (EV) maker cut its full-year
+ production forecast and posted weaker-than-expected second quarter losses.",
+    "preliminaryImpact": "HIGHLY_NEGATIVE",
+    "reasoning": "The cut in full-year production forecast and weaker-than-expected losses indicate a significant
+ negative impact on the company's outlook and financial performance.",
+    "source": "Yahoo Finance Video",
+    "sourceUrl": "https://finance.yahoo.com/video/capri-holdings-lucid-toast-trending-161848897.html"
+  },
+  {
+    "eventTimestamp": "2025-08-06T18:36:15Z",
+    "processedTimestamp": "2025-08-07T00:52:20Z",
+    "ticker": "NVDA",
+    "companyName": "Nvidia",
+    "eventType": "UNSCHEDULED_POSITIVE_EVENT",
+    "headline": "Nvidia's ‘most underappreciated’ business is taking off like a 'rocket ship'",
+    "summary": "Nvidia's networking business is experiencing significant growth, being described as taking off like
+ a 'rocket ship'.",
+    "preliminaryImpact": "HIGHLY_POSITIVE",
+    "reasoning": "The rapid growth in a previously 'underappreciated' business segment indicates a strong positive
+ development for Nvidia's future revenue and market position.",
+    "source": "Yahoo Finance",
+    "sourceUrl": "https://finance.yahoo.com/news/nvidias-most-underappreciated-business-is-taking-off-like-a-rocket-ship-183615113.html"
+  },
+  {
+    "eventTimestamp": "2025-08-06T13:35:51Z",
+    "processedTimestamp": "2025-08-07T00:52:20Z",
+    "ticker": "SMCI",
+    "companyName": "Super Micro Computer",
+    "eventType": "EARNINGS_MISS_STRONG_GUIDANCE",
+    "headline": "Super Micro Computer stock falls as much as 16% after quarterly results, profit forecast miss
+ estimates",
+    "summary": "Super Micro Computer stock plunged after its earnings and profit forecast fell short of estimates.",
+    "preliminaryImpact": "HIGHLY_NEGATIVE",
+    "reasoning": "The significant drop in stock price and missed earnings/profit forecasts indicate a highly negative
+ market reaction to the company's financial performance.",
+    "source": "Yahoo Finance",
+    "sourceUrl": "https://finance.yahoo.com/news/super-micro-computer-stock-falls-as-much-as-16-after-quarterly-results-profit-forecast-miss-estimates-133551819.html"
+  },
+  {
+    "eventTimestamp": "2025-08-06T20:59:27Z",
+    "processedTimestamp": "2025-08-07T00:52:20Z",
+    "ticker": "AAPL",
+    "companyName": "Apple Inc.",
+    "eventType": "UNSCHEDULED_POSITIVE_EVENT",
+    "headline": "Apple Announces $100 Billion US Investment Ahead of Trump Event",
+    "summary": "Apple Inc. committed to spending another $100 billion on domestic manufacturing, marking a pledge to
+ increase US production.",
+    "preliminaryImpact": "HIGHLY_POSITIVE",
+    "reasoning": "A significant investment in domestic manufacturing is a positive development for the company,
+ potentially leading to job creation and reduced tariff exposure.",
+    "source": "Bloomberg",
+    "sourceUrl": "https://finance.yahoo.com/news/trump-apple-announce-fresh-100-130329501.html"
+  },
+  {
+    "eventTimestamp": "2025-08-06T17:18:00Z",
+    "processedTimestamp": "2025-08-07T00:52:20Z",
+    "ticker": "PLTR",
+    "companyName": "Palantir Technologies",
+    "eventType": "EARNINGS_BEAT_WEAK_GUIDANCE",
+    "headline": "PLTR Goes Nuclear: AI-Fueled Quarter Blows Past Wall Street",
+    "summary": "Palantir Technologies (PLTR) reported its first $1 billion quarter, driven by strong AI demand and
+ growth in commercial and government sectors, exceeding Wall Street expectations.",
+    "preliminaryImpact": "HIGHLY_POSITIVE",
+    "reasoning": "The company's first $1 billion quarter and exceeding Wall Street expectations due to strong AI
+ demand indicate a highly positive financial performance and future outlook.",
+    "source": "Zacks",
+    "sourceUrl": "https://finance.yahoo.com/news/pltr-goes-nuclear-ai-fueled-171800179.html"
+  },
+  {
+    "eventTimestamp": "2025-08-06T21:31:14Z",
+    "processedTimestamp": "2025-08-07T00:52:20Z",
+    "ticker": "TSLA",
+    "companyName": "Tesla Inc.",
+    "eventType": "UNSCHEDULED_POSITIVE_EVENT",
+    "headline": "Elon Musk Says $150K Investment In Tesla 'Probably' Makes You A Millionaire",
+    "summary": "Tesla CEO Elon Musk stated that a $150,000 investment in Tesla stock could 'probably' make an
+ investor a millionaire.",
+    "preliminaryImpact": "MODERATELY_POSITIVE",
+    "reasoning": "A positive statement from the CEO about potential returns can boost investor confidence and is a
+ moderately positive event.",
+    "source": "Benzinga",
+    "sourceUrl": "https://finance.yahoo.com/news/elon-musk-says-150k-investment-213114763.html"
+  },
+  {
+    "eventTimestamp": "2025-08-06T21:49:35Z",
+    "processedTimestamp": "2025-08-07T00:52:20Z",
+    "ticker": "RIVN",
+    "companyName": "Rivian",
+    "eventType": "EARNINGS_MISS_STRONG_GUIDANCE",
+    "headline": "Rivian Stock Plunges After Brutal Q2 Earnings and Weak Outlook",
+    "summary": "Rivian stock plunged after reporting brutal Q2 earnings and a weak outlook, with margins crumbling.",
+    "preliminaryImpact": "HIGHLY_NEGATIVE",
+    "reasoning": "The significant stock plunge, brutal Q2 earnings, and weak outlook indicate a highly negative
+ market reaction to Rivian's financial performance and future prospects.",
+    "source": "GuruFocus.com",
+    "sourceUrl": "https://finance.yahoo.com/news/rivian-stock-plunges-brutal-q2-214935646.html"
+  },
+  {
+    "eventTimestamp": "2025-08-01T14:01:51Z",
+    "processedTimestamp": "2025-08-07T00:52:20Z",
     "ticker": "AAL",
     "companyName": "American Airlines Group",
     "eventType": "EARNINGS_BEAT_WEAK_GUIDANCE",
-    "headline": "American Airlines Group (AAL) Reveals Q2 Revenue Growth But Decline In Net Income",
-    "summary": "American Airlines Group reported Q2 revenue growth but a decline in net income, indicating mixed financial performance.",
+    "headline": "Shareholders Will Be Pleased With The Quality of American Airlines Group's (NASDAQ:AAL) Earnings",
+    "summary": "American Airlines Group Inc. (AAL) posted solid earnings, which were underwhelming to investors
+ despite the quality.",
     "preliminaryImpact": "MODERATELY_NEGATIVE",
-    "reasoning": "While revenue growth is positive, a decline in net income suggests underlying profitability issues, leading to a moderately negative impact.",
+    "reasoning": "While earnings were solid, the market's underwhelming reaction suggests a moderately negative
+ impact due to underlying concerns not fully addressed by the earnings report.",
     "source": "Simply Wall St.",
-    "sourceUrl": "https://finance.yahoo.com/news/american-airlines-group-aal-reveals-172746924.html"
+    "sourceUrl": "https://finance.yahoo.com/news/shareholders-pleased-quality-american-airlines-140151924.html"
   },
   {
-    "eventTimestamp": "2025-08-05T20:31:58Z",
-    "processedTimestamp": "2025-08-05T21:09:33Z",
-    "ticker": "RIVN",
-    "companyName": "Rivian",
+    "eventTimestamp": "2025-08-06T13:24:52Z",
+    "processedTimestamp": "2025-08-07T00:52:20Z",
+    "ticker": "PBR",
+    "companyName": "Petrobras",
+    "eventType": "UNSCHEDULED_POSITIVE_EVENT",
+    "headline": "Perenco Completes Acquisition of Cherne, Bagre from Petrobras",
+    "summary": "Perenco completed the acquisition of Cherne and Bagre fields from Petrobras, which is expected to
+ increase Perenco's production in Brazil to 35,000 bpd.",
+    "preliminaryImpact": "MODERATELY_POSITIVE",
+    "reasoning": "The completion of the acquisition and expected increase in production for Perenco is a positive
+ development for the company, indicating growth in its operations.",
+    "source": "Rigzone.com",
+    "sourceUrl": "https://finance.yahoo.com/news/perenco-completes-acquisition-cherne-bagre-132452152.html"
+  },
+  {
+    "eventTimestamp": "2025-08-06T11:37:26Z",
+    "processedTimestamp": "2025-08-07T00:52:20Z",
+    "ticker": "PFE",
+    "companyName": "Pfizer",
+    "eventType": "EARNINGS_BEAT_WEAK_GUIDANCE",
+    "headline": "Pfizer Second Quarter 2025 Earnings: Beats Expectations",
+    "summary": "Pfizer reported second-quarter 2025 earnings that beat expectations, with revenue up 10% from the
+ previous year.",
+    "preliminaryImpact": "MODERATELY_POSITIVE",
+    "reasoning": "The company's earnings beat expectations and showed revenue growth, indicating a positive financial
+ performance.",
+    "source": "Simply Wall St.",
+    "sourceUrl": "https://finance.yahoo.com/news/pfizer-second-quarter-2025-earnings-113726753.html"
+  },
+  {
+    "eventTimestamp": "2025-08-06T23:31:33Z",
+    "processedTimestamp": "2025-08-07T00:52:20Z",
+    "ticker": "INTC",
+    "companyName": "Intel Corporation",
     "eventType": "EARNINGS_MISS_STRONG_GUIDANCE",
-    "headline": "Rivian stock under pressure on mixed Q2 earnings results",
-    "summary": "Rivian reported mixed Q2 results with revenue beating expectations but adjusted EPS missing, and increased its full-year adjusted EBITDA loss range.",
+    "headline": "Jim Cramer Calls Out Intel's $18.8 Billion Foundry Loss Despite Subsidies: 'We Sell Your Stock'",
+    "summary": "Intel Corporation reported an $18.8 billion loss in its foundry division in 2024, despite receiving
+ $8.5 billion in U.S. CHIPS Act subsidies.",
     "preliminaryImpact": "HIGHLY_NEGATIVE",
-    "reasoning": "Widened loss forecast and missed EPS despite revenue beat indicate significant financial challenges, leading to a highly negative impact.",
-    "source": "Yahoo Finance Video",
-    "sourceUrl": "https://finance.yahoo.com/video/rivian-stock-under-pressure-mixed-203158557.html"
+    "reasoning": "A significant financial loss in a key division, despite substantial subsidies, indicates a highly
+ negative financial performance and raises concerns about future profitability.",
+    "source": "Benzinga",
+    "sourceUrl": "https://finance.yahoo.com/news/jim-cramer-calls-intels-18-233133342.html"
   },
   {
-    "eventTimestamp": "2025-08-05T20:53:40Z",
-    "processedTimestamp": "2025-08-05T21:09:33Z",
-    "ticker": "RIVN",
-    "companyName": "Rivian",
-    "eventType": "UNSCHEDULED_NEGATIVE_EVENT",
-    "headline": "Rivian shares fall after wider Q2 loss, supply chain issues and cash burn outlook",
-    "summary": "Rivian's Q2 loss was worse than expected due to supply chain disruptions and increased costs from rare earth metals, leading to a fall in shares.",
-    "preliminaryImpact": "HIGHLY_NEGATIVE",
-    "reasoning": "Supply chain issues and increased costs leading to a wider loss are significant operational challenges, resulting in a highly negative impact.",
-    "source": "Investing.com",
-    "sourceUrl": "https://finance.yahoo.com/news/rivian-shares-fall-wider-q2-205340430.html"
-  },
-  {
-    "eventTimestamp": "2025-08-04T17:25:37Z",
-    "processedTimestamp": "2025-08-05T21:09:33Z",
-    "ticker": "RIVN",
-    "companyName": "Rivian",
-    "eventType": "UNSCHEDULED_POSITIVE_EVENT",
-    "headline": "Rivian sues to sell its EVs directly in Ohio",
-    "summary": "Rivian is suing to gain the right to sell its electric vehicles directly to consumers in Ohio.",
-    "preliminaryImpact": "MODERATELY_POSITIVE",
-    "reasoning": "Gaining direct sales capability in a new state can improve margins and customer experience, representing a moderately positive operational development.",
-    "source": "TechCrunch",
-    "sourceUrl": "https://finance.yahoo.com/news/rivian-sues-sell-evs-directly-172537432.html"
-  },
-  {
-    "eventTimestamp": "2025-08-05T15:47:51Z",
-    "processedTimestamp": "2025-08-05T21:09:33Z",
-    "ticker": "QBTS",
-    "companyName": "D-Wave Quantum Inc.",
-    "eventType": "UNSCHEDULED_POSITIVE_EVENT",
-    "headline": "Axon, D-Wave, Fox: Trending Tickers",
-    "summary": "D-Wave (QBTS) was initiated by Stifel with a Buy rating.",
-    "preliminaryImpact": "MODERATELY_POSITIVE",
-    "reasoning": "A 'Buy' rating from a reputable firm like Stifel indicates positive analyst sentiment and can lead to increased investor interest.",
-    "source": "Yahoo Finance Video",
-    "sourceUrl": "https://finance.yahoo.com/video/axon-d-wave-fox-trending-154751897.html"
-  },
-  {
-    "eventTimestamp": "2025-08-05T15:19:00Z",
-    "processedTimestamp": "2025-08-05T21:09:33Z",
-    "ticker": "QBTS",
-    "companyName": "D-Wave Quantum Inc.",
-    "eventType": "UNSCHEDULED_POSITIVE_EVENT",
-    "headline": "QUBT Rallies 113% Amid Quantum Deals: Will the Momentum Last?",
-    "summary": "QUBT surged 113% due to new quantum hardware and cybersecurity deals, expanding into high-stakes verticals.",
-    "preliminaryImpact": "HIGHLY_POSITIVE",
-    "reasoning": "Significant rally and new deals in high-stakes verticals indicate strong business growth and market confidence.",
-    "source": "Zacks",
-    "sourceUrl": "https://finance.yahoo.com/news/qubt-rallies-113-amid-quantum-151900740.html"
-  },
-  {
-    "eventTimestamp": "2025-08-05T20:10:03Z",
-    "processedTimestamp": "2025-08-05T21:09:33Z",
-    "ticker": "TSLA",
-    "companyName": "Tesla",
-    "eventType": "REGULATORY_INVESTIGATION",
-    "headline": "Tesla, Down Since 'Robotaxi' Launch, Just Got Sued Over Self-Driving Claims",
-    "summary": "Tesla and Elon Musk are being sued by shareholders for alleged securities fraud related to autonomous self-driving vehicle claims.",
-    "preliminaryImpact": "HIGHLY_NEGATIVE",
-    "reasoning": "A lawsuit alleging securities fraud regarding core product capabilities can significantly damage a company's reputation and financial standing, leading to a highly negative impact.",
-    "source": "Investor's Business Daily",
-    "sourceUrl": "https://www.investors.com/news/tesla-stock-robotaxi-lawsuit-stock-market/?src=A00220&yptr=yahoo"
-  },
-  {
-    "eventTimestamp": "2025-08-05T19:00:00Z",
-    "processedTimestamp": "2025-08-05T21:09:33Z",
-    "ticker": "TSLA",
-    "companyName": "Tesla",
-    "eventType": "UNSCHEDULED_POSITIVE_EVENT",
-    "headline": "Tesla Approves Staggering $29 Billion Share Award for Elon Musk",
-    "summary": "Tesla's board approved a $29 billion share award for CEO Elon Musk to incentivize his continued leadership.",
-    "preliminaryImpact": "MODERATELY_POSITIVE",
-    "reasoning": "A large share award to the CEO, while potentially dilutive, signals strong board confidence in leadership and can be seen as a positive for long-term stability.",
-    "source": "Oilprice.com",
-    "sourceUrl": "https://finance.yahoo.com/news/tesla-approves-staggering-29-billion-190000971.html"
-  },
-  {
-    "eventTimestamp": "2025-08-05T18:43:55Z",
-    "processedTimestamp": "2025-08-05T21:09:33Z",
-    "ticker": "TSLA",
-    "companyName": "Tesla",
-    "eventType": "REGULATORY_INVESTIGATION",
-    "headline": "Tesla Ordered to Pay in Fatal Autopilot Crash Case",
-    "summary": "A jury found Tesla 33% liable in a fatal 2019 Autopilot crash case, ordering the company to pay damages.",
-    "preliminaryImpact": "HIGHLY_NEGATIVE",
-    "reasoning": "A legal ruling finding the company liable in a fatal accident related to its core technology is a significant negative event, impacting reputation, legal liabilities, and potentially future product adoption.",
-    "source": "GuruFocus.com",
-    "sourceUrl": "https://finance.yahoo.com/news/tesla-ordered-pay-fatal-autopilot-184355820.html"
-  },
-  {
-    "eventTimestamp": "2025-08-05T11:08:03Z",
-    "processedTimestamp": "2025-08-05T21:09:33Z",
+    "eventTimestamp": "2025-08-06T07:20:00Z",
+    "processedTimestamp": "2025-08-07T00:52:20Z",
     "ticker": "F",
     "companyName": "Ford",
+    "eventType": "UNSCHEDULED_NEGATIVE_EVENT",
+    "headline": "Ford recalls 56K F-150 pickups for seat belt warning chime",
+    "summary": "Ford is recalling 56,000 F-150 pickups due to a faulty seat belt warning chime, marking the
+ automaker's 94th recall in 2025.",
+    "preliminaryImpact": "MODERATELY_NEGATIVE",
+    "reasoning": "A product recall, especially a high number of recalls in a year, indicates potential quality
+ control issues and can negatively impact brand reputation and consumer trust.",
+    "source": "Automotive Dive",
+    "sourceUrl": "https://finance.yahoo.com/news/ford-recalls-56k-f-150-072000528.html"
+  },
+  {
+    "eventTimestamp": "2025-08-06T15:32:52Z",
+    "processedTimestamp": "2025-08-07T00:52:20Z",
+    "ticker": "DNN",
+    "companyName": "Denison Mines",
     "eventType": "UNSCHEDULED_POSITIVE_EVENT",
-    "    "headline": "Genstar looking to divest automotive software company OEConnection – report",
-    "summary": "Genstar is reportedly looking to divest OEConnection, an automotive software company backed by Ford and General Motors, with a potential valuation of up to $5 billion.",
+    "headline": "Update: Denison Mines Values Midwest Main Deposit in Saskatchewan at $965 Million",
+    "summary": "Denison Mines announced that a preliminary economic assessment values its Midwest Main Deposit in
+ Saskatchewan at $965 million.",
     "preliminaryImpact": "MODERATELY_POSITIVE",
-    "reasoning": "A potential divestiture of a company that Ford backs, especially with a high valuation, could indicate a positive return on investment or strategic streamlining for Ford.",
-    "source": "Just Auto",
-    "sourceUrl": "https://finance.yahoo.com/news/genstar-looking-divest-automotive-software-110803994.html"
+    "reasoning": "The valuation of a significant deposit indicates a positive asset development for the company,
+ potentially increasing its future value.",
+    "source": "MT Newswires",
+    "sourceUrl": "https://finance.yahoo.com/news/denison-mines-values-midwest-main-153252420.html"
   },
   {
     "eventTimestamp": "2025-08-05T17:06:19Z",
-    "processedTimestamp": "2025-08-05T21:09:33Z",
+    "processedTimestamp": "2025-08-07T00:52:20Z",
     "ticker": "NIO",
     "companyName": "Nio Inc.",
-    "eventType": "UNSCHEDULED_NEGATIVE_EVENT",
+    "eventType": "EARNINGS_MISS_STRONG_GUIDANCE",
     "headline": "Nio Inc. (NIO) umbles 8% as Slow July Deliveries Growth Disappoint",
-    "summary": "Nio Inc. stock tumbled 8% due to slower-than-expected July vehicle delivery growth.",
+    "summary": "Nio Inc. stock dropped 8% due to slower growth in vehicle deliveries in July, disappointing
+ investors.",
     "preliminaryImpact": "MODERATELY_NEGATIVE",
-    "reasoning": "Slower delivery growth directly impacts revenue and market share, leading to a negative market reaction.",
+    "reasoning": "Slower delivery growth and a stock drop indicate a negative impact on the company's performance
+ and investor sentiment.",
     "source": "Insider Monkey",
     "sourceUrl": "https://finance.yahoo.com/news/nio-inc-nio-umbles-8-170619367.html"
   },
   {
-    "eventTimestamp": "2025-08-03T09:49:00Z",
-    "processedTimestamp": "2025-08-05T21:09:33Z",
-    "ticker": "QS",
-    "companyName": "QuantumScape",
-    "eventType": "UNSCHEDULED_NEGATIVE_EVENT",
-    "headline": "Why QuantumScape Stock Plummeted This Week",
-    "summary": "QuantumScape's stock experienced a significant decline due to multiple bearish catalysts.",
-    "preliminaryImpact": "HIGHLY_NEGATIVE",
-    "reasoning": "A plummet in stock price due to multiple bearish catalysts indicates significant negative sentiment and potential underlying issues.",
-    "source": "Motley Fool",
-    "sourceUrl": "https://finance.yahoo.com/news/why-quantumscape-stock-plummeted-week-094900270.html"
-  },
-  {
-    "eventTimestamp": "2025-07-30T12:05:24Z",
-    "processedTimestamp": "2025-08-05T21:09:33Z",
-    "ticker": "QS",
-    "companyName": "QuantumScape Corporation",
-    "eventType": "UNSCHEDULED_NEGATIVE_EVENT",
-    "headline": "QuantumScape (QS) Drops 15% as Investors Mimic $11.6-Million Insider Selling",
-    "summary": "QuantumScape's stock dropped 15% following an $11.6 million insider selling transaction, leading investors to unload positions.",
-    "preliminaryImpact": "HIGHLY_NEGATIVE",
-    "reasoning": "Significant insider selling can signal a lack of confidence from within the company, leading to a strong negative reaction from other investors.",
-    "source": "Insider Monkey",
-    "sourceUrl": "https://finance.yahoo.com/news/quantumscape-qs-drops-15-investors-120524669.html"
-  },
-  {
-    "eventTimestamp": "2025-08-05T20:47:25Z",
-    "processedTimestamp": "2025-08-05T21:09:33Z",
-    "ticker": "SNAP",
-    "companyName": "Snap Inc.",
-    "eventType": "EARNINGS_MISS_STRONG_GUIDANCE",
-    "headline": "Snap shares tumble as investor concerns mount despite user growth, AR push",
-    "summary": "Snap Inc. reported a wider-than-forecast loss for Q2 2025, with declining profitability and margin pressure despite healthy user growth and revenue meeting expectations.",
-    "preliminaryImpact": "HIGHLY_NEGATIVE",
-    "reasoning": "A wider-than-expected loss and declining profitability, even with user growth, indicate significant financial challenges and negatively impact investor confidence.",
-    "source": "Investing.com",
-    "sourceUrl": "https://finance.yahoo.com/news/snap-shares-tumble-investor-concerns-204725665.html"
-  },
-  {
-    "eventTimestamp": "2025-08-04T13:30:02Z",
-    "processedTimestamp": "2025-08-05T21:09:33Z",
-    "ticker": "SOFI",
-    "companyName": "SoFi Technologies, Inc.",
+    "eventTimestamp": "2025-08-06T18:40:04Z",
+    "processedTimestamp": "2025-08-07T00:52:20Z",
+    "ticker": "AMZN",
+    "companyName": "Amazon",
     "eventType": "UNSCHEDULED_POSITIVE_EVENT",
-    "headline": "SoFi Stock Is Tearing Higher After Q2 Earnings. Is It Too Late to Buy SOFI Here?",
-    "summary": "SoFi Technologies stock surged after its Q2 earnings, prompting questions about whether it's too late to invest.",
+    "headline": "Amazon's First Link-Up With OpenAI Wins Cheers On Wall Street",
+    "summary": "Amazon's first official collaboration with OpenAI, making OpenAI's open weight models available on
+ Amazon Web Services, has been positively received by Wall Street analysts.",
     "preliminaryImpact": "MODERATELY_POSITIVE",
-    "reasoning": "A significant stock surge post-earnings indicates strong positive market reaction to the company's financial performance.",
-    "source": "Barchart",
-    "sourceUrl": "https://finance.yahoo.com/news/sofi-stock-tearing-higher-q2-133002878.html"
+    "reasoning": "A new strategic partnership with a leading AI company like OpenAI is a positive development for
+ Amazon, enhancing its cloud offerings and potentially boosting its position in the AI market.",
+    "source": "Investor's Business Daily",
+    "sourceUrl": "https://finance.yahoo.com/news/amazon-s-first-link-up-with-openai-wins-cheers-on-wall-street-184004093.html"
+  },
+  {
+    "eventTimestamp": "2025-08-06T16:24:06Z",
+    "processedTimestamp": "2025-08-07T00:52:20Z",
+    "ticker": "HIMS",
+    "companyName": "Hims & Hers Health, Inc.",
+    "eventType": "EARNINGS_MISS_STRONG_GUIDANCE",
+    "headline": "Hims & Hers (HIMS) Falls 12.36% on Weaker Revenues",
+    "summary": "Hims & Hers Health, Inc. stock fell 12.36% due to lower-than-expected revenues in the second
+ quarter.",
+    "preliminaryImpact": "HIGHLY_NEGATIVE",
+    "reasoning": "A significant stock drop and weaker-than-expected revenues indicate a highly negative financial
+ performance and investor reaction.",
+    "source": "Insider Monkey",
+    "sourceUrl": "https://finance.yahoo.com/news/hims-hers-hims-falls-12-162406017.html"
+  },
+  {
+    "eventTimestamp": "2025-08-06T17:10:58Z",
+    "processedTimestamp": "2025-08-07T00:52:20Z",
+    "ticker": "ZETA",
+    "companyName": "Zeta Global",
+    "eventType": "EARNINGS_BEAT_WEAK_GUIDANCE",
+    "headline": "Why Is Zeta (ZETA) Stock Rocketing Higher Today",
+    "summary": "Zeta Global stock jumped 27% after reporting stellar Q2 earnings that surpassed expectations and
+ raising its full-year financial outlook.",
+    "preliminaryImpact": "HIGHLY_POSITIVE",
+    "reasoning": "The significant stock increase, exceeding earnings expectations, and raised financial outlook
+ indicate a highly positive financial performance and future prospects.",
+    "source": "StockStory",
+    "sourceUrl": "https://finance.yahoo.com/news/why-zeta-zeta-stock-rocketing-171058070.html"
+  },
+  {
+    "eventTimestamp": "2025-08-06T21:09:00Z",
+    "processedTimestamp": "2025-08-07T00:52:20Z",
+    "ticker": "U",
+    "companyName": "Unity",
+    "eventType": "EARNINGS_MISS_STRONG_GUIDANCE",
+    "headline": "Unity CEO breaks down Q2 beat & video game industry",
+    "summary": "Unity stock fell despite beating Q2 expectations, as guidance came in slightly below forecasts.",
+    "preliminaryImpact": "MODERATELY_NEGATIVE",
+    "reasoning": "Despite beating earnings, the stock fell due to a weaker-than-expected guidance, indicating a
+ negative outlook for the near future.",
+    "source": "Yahoo Finance Video",
+    "sourceUrl": "https://finance.yahoo.com/news/unity-ceo-breaks-down-q2-210900746.html"
   },
   {
     "eventTimestamp": "2025-08-05T18:56:13Z",
-    "processedTimestamp": "2025-08-05T21:09:33Z",
+    "processedTimestamp": "2025-08-07T00:52:20Z",
     "ticker": "WBD",
     "companyName": "Warner Bros. Discovery",
     "eventType": "UNSCHEDULED_NEGATIVE_EVENT",
     "headline": "Warner Bros. Discovery Shares Slip After Classic Cartoon Purge",
-    "summary": "Warner Bros. Discovery's shares slipped after the company removed much of its classic animated library from its Max streaming service.",
+    "summary": "Warner Bros. Discovery shares slipped after the company removed much of its classic animated library
+ from Max.",
     "preliminaryImpact": "MODERATELY_NEGATIVE",
-    "reasoning": "Removing content from a streaming service can lead to subscriber dissatisfaction and potential churn, negatively impacting revenue and stock performance.",
+    "reasoning": "The removal of content and subsequent slip in shares indicates a negative reaction from the
+ market, potentially due to concerns about content strategy and subscriber retention.",
     "source": "GuruFocus.com",
     "sourceUrl": "https://finance.yahoo.com/news/warner-bros-discovery-shares-slip-185613471.html"
-  },
-  {
-    "eventTimestamp": "2025-08-04T11:21:49Z",
-    "processedTimestamp": "2025-08-05T21:09:33Z",
-    "ticker": "WBD",
-    "companyName": "Warner Bros. Discovery",
-    "eventType": "UNSCHEDULED_POSITIVE_EVENT",
-    "headline": "Warner Bros. Discovery Signs New Post-Split Contracts for Perrette and Campbell",
-    "summary": "Warner Bros. Discovery signed new contracts for key executives Perrette and Campbell, effective after the 2026 split into Warner Bros. and Discovery Global.",
-    "preliminaryImpact": "MODERATELY_POSITIVE",
-    "reasoning": "Securing key executive talent post-split provides stability and continuity, which is a positive signal for the company's future operations.",
-    "source": "GuruFocus.com",
-    "sourceUrl": "https://finance.yahoo.com/news/warner-bros-discovery-signs-post-112149261.html"
-  },
-  {
-    "eventTimestamp": "2025-08-05T21:05:37Z",
-    "processedTimestamp": "2025-08-05T21:09:33Z",
-    "ticker": "AMZN",
-    "companyName": "Amazon",
-    "eventType": "UNSCHEDULED_POSITIVE_EVENT",
-    "headline": "Amazon shows $36.7 million stake in IonQ stock, shares jump",
-    "summary": "Amazon's disclosure of a $36.7 million stake in IonQ stock led to a jump in IonQ shares.",
-    "preliminaryImpact": "MODERATELY_POSITIVE",
-    "reasoning": "A significant investment by a major company like Amazon in another company can be seen as a vote of confidence, leading to a positive market reaction for the invested company.",
-    "source": "Investing.com",
-    "sourceUrl": "https://finance.yahoo.com/news/amazon-shows-36-7-million-210537326.html"
-  },
-  {
-    "eventTimestamp": "2025-08-05T20:06:26Z",
-    "processedTimestamp": "2025-08-05T21:09:33Z",
-    "ticker": "AMZN",
-    "companyName": "Amazon",
-    "eventType": "UNSCHEDULED_POSITIVE_EVENT",
-    "headline": "For the first time, OpenAI models are available on AWS",
-    "summary": "OpenAI's models are now available on Amazon Web Services (AWS) for the first time, marking a significant competitive move for both companies.",
-    "preliminaryImpact": "HIGHLY_POSITIVE",
-    "reasoning": "The availability of OpenAI models on AWS strengthens AWS's AI offerings and competitive position, indicating a highly positive strategic development.",
-    "source": "TechCrunch",
-    "sourceUrl": "https://finance.yahoo.com/news/first-time-openai-models-available-200626656.html"
-  },
-  {
-    "eventTimestamp": "2025-08-05T16:36:09Z",
-    "processedTimestamp": "2025-08-05T21:09:33Z",
-    "ticker": "JOBY",
-    "companyName": "Joby Aviation",
-    "eventType": "UNSCHEDULED_POSITIVE_EVENT",
-    "headline": "Joby Aviation (JOBY) Jumps to New High on $125-Million Acquisition of Air Mobility Platform",
-    "summary": "Joby Aviation acquired a leading urban air mobility platform for $125 million, leading to a new all-time high in its stock price.",
-    "preliminaryImpact": "HIGHLY_POSITIVE",
-    "reasoning": "A significant acquisition of an air mobility platform indicates strategic growth and expansion into key areas, leading to a highly positive market reaction.",
-    "source": "Insider Monkey",
-    "sourceUrl": "https://finance.yahoo.com/news/joby-aviation-joby-jumps-high-163609440.html"
-  },
-  {
-    "eventTimestamp": "2025-08-05T16:36:44Z",
-    "processedTimestamp": "2025-08-05T21:09:33Z",
-    "ticker": "RGTI",
-    "companyName": "Rigetti Computing",
-    "eventType": "UNSCHEDULED_POSITIVE_EVENT",
-    "headline": "Rigetti Computing (RGTI) Soars 11.6% on Bullish Rating, Price Target Upgrade",
-    "summary": "Rigetti Computing's shares jumped 11.6% after receiving a bullish rating and a higher price target from an analyst.",
-    "preliminaryImpact": "HIGHLY_POSITIVE",
-    "reasoning": "A bullish rating and price target upgrade from an analyst indicate strong positive sentiment and potential for future growth, leading to a significant stock increase.",
-    "source": "Insider Monkey",
-    "sourceUrl": "https://finance.yahoo.com/news/rigetti-computing-rgti-soars-11-163644382.html"
-  },
-  {
-    "eventTimestamp": "2025-08-04T18:26:42Z",
-    "processedTimestamp": "2025-08-05T21:09:33Z",
-    "ticker": "RGTI",
-    "companyName": "Rigetti Computing",
-    "eventType": "UNSCHEDULED_POSITIVE_EVENT",
-    "headline": "RGTI: Rigetti Shares Jump after Needham hikes target on U.S. quantum momentum",
-    "summary": "Rigetti shares jumped after Needham raised its price target due to the company's momentum in U.S. quantum computing.",
-    "preliminaryImpact": "HIGHLY_POSITIVE",
-    "reasoning": "A raised price target and strong momentum in a key technological area like quantum computing indicate significant positive future prospects.",
-    "source": "GuruFocus.com",
-    "sourceUrl": "https://finance.yahoo.com/news/rgti-rigetti-shares-jump-needham-182642919.html"
   }
 ]
