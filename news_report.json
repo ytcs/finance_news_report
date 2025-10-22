@@ -1,1 +1,80 @@
-[{"eventTimestamp": "2025-10-21T18:50:43Z", "processedTimestamp": "2025-10-21T20:20:00Z", "ticker": "F", "companyName": "Ford Motor Company", "eventType": "UNSCHEDULED_NEGATIVE_EVENT", "headline": "Ford Fumbles Again", "summary": "So far this year, Ford Motor Company has faced over 100 recalls, impacting nearly eight million vehicles – a figure equal to roughly four years of its annual production output.", "preliminaryImpact": "HIGHLY_NEGATIVE", "reasoning": "A high volume of recalls indicates significant operational and quality control issues, which can lead to substantial financial costs and damage to the company's reputation.", "source": "24/7 Wall St.", "sourceUrl": "https://finance.yahoo.com/video/ford-fumbles-again-185043304.html"}, {"eventTimestamp": "2025-10-17T13:20:33Z", "processedTimestamp": "2025-10-21T20:25:00Z", "ticker": "BBAI", "companyName": "BigBear.ai Holdings, Inc.", "eventType": "UNSCHEDULED_POSITIVE_EVENT", "headline": "Should BigBear.ai’s Edge AI Partnership with Tsecond Spur Fresh Consideration From BBAI Investors?", "summary": "BigBear.ai Holdings announced a partnership with Tsecond Inc. to deliver AI-enabled edge infrastructure to support mission-critical and defense operations.", "preliminaryImpact": "MODERATELY_POSITIVE", "reasoning": "A partnership to deliver AI-enabled edge infrastructure for mission-critical defense operations could lead to significant revenue opportunities and strengthen the company's position in the defense sector.", "source": "Simply Wall St.", "sourceUrl": "https://finance.yahoo.com/news/bigbear-ai-edge-ai-partnership-132033481.html"}, {"eventTimestamp": "2025-10-21T18:01:27Z", "processedTimestamp": "2025-10-21T20:30:00Z", "ticker": "BITF", "companyName": "Bitfarms Ltd.", "eventType": "UNSCHEDULED_POSITIVE_EVENT", "headline": "Bitfarms Massive AI Fundraise Puts It on the IREN, Hut 8 Path", "summary": "Bitfarms Ltd. is moving beyond Bitcoin mining into the fast-growing sector of high-performance computing (HPC) and AI datacenters, announcing a $500 million convertible notes offering to finance the expansion.", "preliminaryImpact": "HIGHLY_POSITIVE", "reasoning": "A major strategic pivot into the high-growth AI and HPC sector, backed by a substantial capital raise, has the potential to unlock significant new revenue streams and fundamentally change the company's growth trajectory.", "source": "Benzinga", "sourceUrl": "https://finance.yahoo.com/news/bitfarms-massive-ai-fundraise-puts-180127814.html"}, {"eventTimestamp": "2025-10-20T22:00:00Z", "processedTimestamp": "2025-10-21T20:35:00Z", "ticker": "T", "companyName": "AT&T Inc.", "eventType": "UNSCHEDULED_NEGATIVE_EVENT", "headline": "Copper thieves hit AT&T’s underground LA vault — as 1,502 incidents in the months since have robbed residents of service", "summary": "Copper theft from AT&T's underground infrastructure in Los Angeles has led to over 1,500 service disruptions, impacting residents and highlighting operational vulnerabilities.", "preliminaryImpact": "MODERATELY_NEGATIVE", "reasoning": "Repeated service disruptions due to theft can lead to customer dissatisfaction, potential regulatory scrutiny, and unforeseen costs for infrastructure repair and security enhancements.", "source": "Moneywise", "sourceUrl": "https://finance.yahoo.com/news/copper-thieves-hit-t-underground-220000920.html"}, {"eventTimestamp": "2025-10-17T19:58:00Z", "processedTimestamp": "2025-10-21T20:40:00Z", "ticker": "HPE", "companyName": "Hewlett Packard Enterprise Company", "eventType": "UNSCHEDULED_NEGATIVE_EVENT", "headline": "HPE Stock Drops. Wall Street Hates Surprises.", "summary": "Hewlett Packard Enterprise forecast weaker-than-expected revenue growth for the coming year, which overshadowed a 10% dividend increase.", "preliminaryImpact": "MODERATELY_NEGATIVE", "reasoning": "A weaker-than-expected revenue forecast, especially in the current AI-focused market, raises concerns about the company's growth prospects and competitiveness, outweighing the positive news of a dividend increase.", "source": "Barrons.com", "sourceUrl": "https://finance.yahoo.com/m/a3cc51d5-1d31-3c2e-8609-16b2681941c2/hpe-stock-drops-wall-street.html"}, {"eventTimestamp": "2025-10-15T02:07:25Z", "processedTimestamp": "2025-10-21T20:45:00Z", "ticker": "DNN", "companyName": "Denison Mines Corp.", "eventType": "UNSCHEDULED_POSITIVE_EVENT", "headline": "Will Denison Mines’ (TSX:DML) Exploration Momentum Reinforce Its Leadership in Canadian Uranium Development?", "summary": "Denison Mines announced new high-priority uranium drill targets and first production at McClean Lake North, reinforcing its leadership in Canadian uranium development.", "preliminaryImpact": "MODERATELY_POSITIVE", "reasoning": "Positive exploration and operational updates in the uranium sector can lead to increased investor confidence and a higher valuation, especially in a market with growing demand for nuclear energy.", "source": "Simply Wall St.", "sourceUrl": "https://finance.yahoo.com/news/denison-mines-tsx-dml-exploration-020725224.html"}, {"eventTimestamp": "2025-10-16T20:19:31Z", "processedTimestamp": "2025-10-21T20:50:00Z", "ticker": "BTG", "companyName": "B2Gold Corp.", "eventType": "UNSCHEDULED_POSITIVE_EVENT", "headline": "B2Gold (BTG) Declares Commercial Production at Goose Mine", "summary": "B2Gold Corp. declared commercial production at the Goose Mine, part of the Back River Gold District in Nunavut, Canada, achieved on October 2, 2025.", "preliminaryImpact": "HIGHLY_POSITIVE", "reasoning": "The declaration of commercial production at a new mine is a major operational milestone that will directly contribute to the company's future revenue and profitability.", "source": "Insider Monkey", "sourceUrl": "https://finance.yahoo.com/news/b2gold-btg-declares-commercial-production-201931166.html"}, {"eventTimestamp": "2025-10-21T13:10:48Z", "processedTimestamp": "2025-10-21T20:55:00Z", "ticker": "INTC", "companyName": "Intel Corporation", "eventType": "UNSCHEDULED_POSITIVE_EVENT", "headline": "Betting Big on Intel: Is INTC Stock a Buy Before Oct. 23 Earnings?", "summary": "Intel has secured a $5 billion investment from Nvidia and a strategic alliance to co-develop chips, promising up to $50 billion in annual revenue long-term.", "preliminaryImpact": "HIGHLY_POSITIVE", "reasoning": "A $5 billion investment and strategic alliance with a major player like Nvidia is a significant vote of confidence in Intel's future and could lead to substantial revenue growth.", "source": "24/7 Wall St.", "sourceUrl": "https://247wallst.com/investing/2025/10/21/betting-big-on-intel-is-intc-stock-a-buy-before-oct-23-earnings/"}, {"eventTimestamp": "2025-10-21T16:56:45Z", "processedTimestamp": "2025-10-21T21:00:00Z", "ticker": "JOBY", "companyName": "Joby Aviation, Inc.", "eventType": "UNSCHEDULED_POSITIVE_EVENT", "headline": "Joby Aviation (JOBY) Soars 11% on Air Taxi Progress", "summary": "Joby Aviation stock surged 11.3% on renewed optimism for the electric vertical take-off and landing (eVTOL) industry.", "preliminaryImpact": "MODERATELY_POSITIVE", "reasoning": "A significant stock price increase on positive industry sentiment indicates strong investor confidence in the company's future prospects and the viability of the eVTOL market.", "source": "Insider Monkey", "sourceUrl": "https://finance.yahoo.com/news/joby-aviation-joby-soars-11-165645940.html"}, {"eventTimestamp": "2025-10-21T16:42:14Z", "processedTimestamp": "2025-10-21T21:05:00Z", "ticker": "WBD", "companyName": "Warner Bros. Discovery, Inc.", "eventType": "UNSCHEDULED_POSITIVE_EVENT", "headline": "Warner Bros. Discovery considers breakup options, citing \"unsolicited\" takeover interest", "summary": "Warner Bros. Discovery has initiated a strategic review after receiving unsolicited interest from multiple parties for a potential takeover.", "preliminaryImpact": "HIGHLY_POSITIVE", "reasoning": "The announcement of a strategic review due to unsolicited takeover interest is a strong indication that the company may be acquired at a premium, which is a significant positive catalyst for the stock.", "source": "Yahoo Finance", "sourceUrl": "https://finance.yahoo.com/news/warner-bros-discovery-considers-breakup-options-citing-unsolicited-takeover-interest-164214644.html"}, {"eventTimestamp": "2025-10-21T17:30:43Z", "processedTimestamp": "2025-10-21T21:10:00Z", "ticker": "CLF", "companyName": "Cleveland-Cliffs Inc.", "eventType": "UNSCHEDULED_NEGATIVE_EVENT", "headline": "Just two U.S. makers of critical railroad material left after plant closure", "summary": "Cleveland-Cliffs will close its idle Steelton, Pa., facility permanently, leaving just two U.S. producers of steel rail for track.", "preliminaryImpact": "MODERATELY_NEGATIVE", "reasoning": "The closure of a production facility, even an idle one, can signal a contraction in the company's operations and a reduction in its production capacity, which can be viewed negatively by investors.", "source": "FreightWaves", "sourceUrl": "https://finance.yahoo.com/news/just-two-u-makers-critical-173043541.html"}, {"eventTimestamp": "2025-10-20T17:36:31Z", "processedTimestamp": "2025-10-21T21:15:00Z", "ticker": "OPEN", "companyName": "Opendoor Technologies Inc.", "eventType": "UNSCHEDULED_POSITIVE_EVENT", "headline": "Why Is Opendoor (OPEN) Stock Rocketing Higher Today", "summary": "Opendoor Technologies stock jumped 5.2% after Morgan Stanley raised its price target to $6 from $2 and the company hired a new key leader.", "preliminaryImpact": "MODERATELY_POSITIVE", "reasoning": "A significant price target increase from a major investment bank, coupled with a key leadership addition, signals growing confidence in the company's strategy and future performance.", "source": "StockStory", "sourceUrl": "https://finance.yahoo.com/news/why-opendoor-open-stock-rocketing-173631367.html"}, {"eventTimestamp": "2025-10-17T15:21:17Z", "processedTimestamp": "2025-10-21T21:20:00Z", "ticker": "RIG", "companyName": "Transocean Ltd.", "eventType": "UNSCHEDULED_POSITIVE_EVENT", "headline": "The Bull Case For Transocean (RIG) Could Change Following Aggressive Debt Buyback and Rig Contract Wins", "summary": "Transocean announced an increased cash tender offer for its senior notes and new contract extensions for its ultra-deepwater rigs.", "preliminaryImpact": "MODERATELY_POSITIVE", "reasoning": "An aggressive debt buyback and new contract wins demonstrate a commitment to improving the company's financial health and securing future revenue streams.", "source": "Simply Wall St.", "sourceUrl": "https://finance.yahoo.com/news/bull-case-transocean-rig-could-152117664.html"}]
+[
+  {
+    "eventTimestamp": "2025-10-22T17:36:37Z",
+    "processedTimestamp": "2025-10-22T20:01:00Z",
+    "ticker": "F",
+    "companyName": "Ford Motor Company",
+    "eventType": "UNSCHEDULED_NEGATIVE_EVENT",
+    "headline": "Ford recalls nearly 1.5 million vehicles in U.S. over rearview camera failures",
+    "summary": "Ford Motor Co. is recalling nearly 1.5 million vehicles in the U.S. due to failures in the rearview camera.",
+    "preliminaryImpact": "MODERATELY_NEGATIVE",
+    "reasoning": "A vehicle recall of this magnitude can lead to significant repair costs and damage to the company's reputation, likely causing a negative market reaction.",
+    "source": "Detroit Free Press",
+    "sourceUrl": "https://www.freep.com/story/money/cars/ford/2025/10/22/ford-recalls1-5-million-vehicles-126th-recall-2025/86833640007/"
+  },
+  {
+    "eventTimestamp": "2025-10-21T20:33:28Z",
+    "processedTimestamp": "2025-10-22T20:02:00Z",
+    "ticker": "BITF",
+    "companyName": "Bitfarms Ltd.",
+    "eventType": "UNSCHEDULED_POSITIVE_EVENT",
+    "headline": "Bitfarms closes $588 million convertible notes to bolster AI efforts",
+    "summary": "Bitfarms has closed a $588 million convertible notes offering to fund its expansion into artificial intelligence and high-performance computing.",
+    "preliminaryImpact": "MODERATELY_POSITIVE",
+    "reasoning": "A large capital raise to enter a high-growth sector like AI is a significant strategic move that could be viewed positively by investors, despite the dilutive nature of convertible notes.",
+    "source": "MT Newswires",
+    "sourceUrl": "https://finance.yahoo.com/news/bitfarms-down-2-7-hours-203328873.html"
+  },
+  {
+    "eventTimestamp": "2025-10-17T13:20:33Z",
+    "processedTimestamp": "2025-10-22T20:03:00Z",
+    "ticker": "BBAI",
+    "companyName": "BigBear.ai Holdings, Inc.",
+    "eventType": "UNSCHEDULED_POSITIVE_EVENT",
+    "headline": "Should BigBear.ai’s Edge AI Partnership with Tsecond Spur Fresh Consideration From BBAI Investors?",
+    "summary": "BigBear.ai has partnered with Tsecond Inc. to deliver AI-enabled edge infrastructure for defense operations.",
+    "preliminaryImpact": "MODERATELY_POSITIVE",
+    "reasoning": "A strategic partnership to deliver solutions to the defense sector, a large and well-funded market, is a positive development for BigBear.ai.",
+    "source": "Simply Wall St.",
+    "sourceUrl": "https://finance.yahoo.com/news/bigbear-ai-edge-ai-partnership-132033481.html"
+  },
+  {
+    "eventTimestamp": "2025-10-20T17:36:31Z",
+    "processedTimestamp": "2025-10-22T20:04:00Z",
+    "ticker": "OPEN",
+    "companyName": "Opendoor Technologies Inc.",
+    "eventType": "UNSCHEDULED_POSITIVE_EVENT",
+    "headline": "Why Is Opendoor (OPEN) Stock Rocketing Higher Today",
+    "summary": "Opendoor Technologies announced the hiring of Giang LeGric as its new Chief Financial Officer.",
+    "preliminaryImpact": "MODERATELY_POSITIVE",
+    "reasoning": "The appointment of a new CFO can be seen as a positive sign of stability and strategic direction, often leading to increased investor confidence.",
+    "source": "StockStory",
+    "sourceUrl": "https://finance.yahoo.com/news/why-opendoor-open-stock-rocketing-173631367.html"
+  },
+  {
+    "eventTimestamp": "2025-10-22T19:02:39Z",
+    "processedTimestamp": "2025-10-22T20:05:00Z",
+    "ticker": "T",
+    "companyName": "AT&T Inc.",
+    "eventType": "UNSCHEDULED_POSITIVE_EVENT",
+    "headline": "AT&T Inc (T) Q3 2025 Earnings Call Highlights: Strong Fiber Growth and Strategic Expansion ...",
+    "summary": "AT&T reported strong fiber subscriber growth in its Q3 2025 earnings call.",
+    "preliminaryImpact": "MODERATELY_POSITIVE",
+    "reasoning": "Strong subscriber growth in a key area like fiber is a positive indicator of the company's competitive position and future revenue potential.",
+    "source": "GuruFocus.com",
+    "sourceUrl": "https://finance.yahoo.com/news/t-inc-t-q3-2025-190239328.html"
+  },
+  {
+    "eventTimestamp": "2025-10-22T15:56:27Z",
+    "processedTimestamp": "2025-10-22T20:06:00Z",
+    "ticker": "INTC",
+    "companyName": "Intel Corporation",
+    "eventType": "UNSCHEDULED_POSITIVE_EVENT",
+    "headline": "Update: Wedbush Raises Intel's Price Target to $20 From $19, Neutral Rating Maintained",
+    "summary": "Wedbush raised its price target on Intel to $20 from $19, while maintaining a Neutral rating.",
+    "preliminaryImpact": "MODERATELY_POSITIVE",
+    "reasoning": "An analyst price target increase, even with a neutral rating, can be seen as a positive signal by the market, suggesting a more favorable outlook.",
+    "source": "MT Newswires",
+    "sourceUrl": "https://finance.yahoo.com/news/wedbush-raises-intel-apos-price-155627163.html"
+  }
+]
