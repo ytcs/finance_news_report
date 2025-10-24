@@ -1,0 +1,54 @@
+[
+  {
+    "eventTimestamp": "2025-10-23T01:50:03.594547Z",
+    "processedTimestamp": "2025-10-23T21:50:03.595133Z",
+    "ticker": "F",
+    "companyName": "Ford Motor Company",
+    "eventType": "UNSCHEDULED_POSITIVE_EVENT",
+    "headline": "Ford Q3 earnings beat expectations",
+    "summary": "Ford Q3 earnings beat expectations",
+    "preliminaryImpact": "MODERATELY_POSITIVE",
+    "reasoning": "Ford Motor Company reported strong earnings, indicating solid financial performance.",
+    "source": "Bloomberg",
+    "sourceUrl": "http://example.com/ford-earnings"
+  },
+  {
+    "eventTimestamp": "2025-10-23T06:50:03.595312Z",
+    "processedTimestamp": "2025-10-23T21:50:03.595344Z",
+    "ticker": "TSLA",
+    "companyName": "Tesla, Inc.",
+    "eventType": "UNSCHEDULED_NEGATIVE_EVENT",
+    "headline": "Tesla stock drops on production outlook warning",
+    "summary": "Tesla stock drops on production outlook warning",
+    "preliminaryImpact": "MODERATELY_NEGATIVE",
+    "reasoning": "News detected, but specific classification not determined.",
+    "source": "Reuters",
+    "sourceUrl": "http://example.com/tesla-outlook"
+  },
+  {
+    "eventTimestamp": "2025-10-23T13:50:03.595590Z",
+    "processedTimestamp": "2025-10-23T21:50:03.595613Z",
+    "ticker": "NVDA",
+    "companyName": "NVIDIA Corporation",
+    "eventType": "UNSCHEDULED_POSITIVE_EVENT",
+    "headline": "Nvidia Q4 earnings guidance strong",
+    "summary": "Nvidia Q4 earnings guidance strong",
+    "preliminaryImpact": "MODERATELY_POSITIVE",
+    "reasoning": "NVIDIA Corporation reported strong earnings, indicating solid financial performance.",
+    "source": "Bloomberg",
+    "sourceUrl": "http://example.com/nvidia-guidance"
+  },
+  {
+    "eventTimestamp": "2025-10-22T15:50:03.595591Z",
+    "processedTimestamp": "2025-10-23T21:50:03.595621Z",
+    "ticker": "NVDA",
+    "companyName": "NVIDIA Corporation",
+    "eventType": "PATENT_LITIGATION_DEFENDANT",
+    "headline": "Nvidia faces patent infringement lawsuit",
+    "summary": "Nvidia faces patent infringement lawsuit",
+    "preliminaryImpact": "MODERATELY_NEGATIVE",
+    "reasoning": "NVIDIA Corporation is involved in a patent infringement lawsuit, which could lead to legal costs and product restrictions.",
+    "source": "WSJ",
+    "sourceUrl": "http://example.com/nvidia-patent"
+  }
+]
