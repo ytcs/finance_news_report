@@ -1,0 +1,80 @@
+[
+  {
+    "eventTimestamp": "2026-06-22T00:00:00Z",
+    "processedTimestamp": "2026-06-30T20:25:00Z",
+    "ticker": "AAL",
+    "companyName": "American Airlines Group Inc.",
+    "eventType": "UNSCHEDULED_POSITIVE_EVENT",
+    "headline": "American Airlines reported record first-quarter revenue on June 22, 2026, with a 10% year-over-year increase that surpassed Wall Street expectations.",
+    "summary": "American Airlines reported a record first-quarter revenue, beating Wall Street expectations.",
+    "preliminaryImpact": "MODERATELY_POSITIVE",
+    "reasoning": "A record revenue beat is a positive sign for the company's performance.",
+    "source": "tradersunion.com",
+    "sourceUrl": "https://tradersunion.com/news/american-airlines-stock-price-prediction-2025-2030/aal-to-consolidate-between-16-98-18-41-in-the-next-2-3-days-with-78-probability-of-upside-continuation/"
+  },
+  {
+    "eventTimestamp": "2026-06-29T00:00:00Z",
+    "processedTimestamp": "2026-06-30T20:25:00Z",
+    "ticker": "NVDA",
+    "companyName": "NVIDIA Corporation",
+    "eventType": "UNSCHEDULED_POSITIVE_EVENT",
+    "headline": "Nvidia delivered a blockbuster quarter, exceeding expectations and increasing guidance for Q4 revenue to $65 billion, well above analyst estimates.",
+    "summary": "Nvidia reported a blockbuster quarter, beating expectations and raising guidance.",
+    "preliminaryImpact": "HIGHLY_POSITIVE",
+    "reasoning": "A strong earnings beat coupled with a significant guidance increase is a very strong positive signal.",
+    "source": "benzinga.com",
+    "sourceUrl": "https://www.benzinga.com/markets/etfs/26/06/43377227/nvidia-etfs-surge-as-the-chip-giant-delivers-another-blockbuster-quarter"
+  },
+  {
+    "eventTimestamp": "2026-06-29T00:00:00Z",
+    "processedTimestamp": "2026-06-30T20:25:00Z",
+    "ticker": "SOFI",
+    "companyName": "SoFi Technologies, Inc.",
+    "eventType": "EARNINGS_BEAT_WEAK_GUIDANCE",
+    "headline": "SoFi reported strong Q1 2026 revenue of $1.1 billion, surpassing forecasts, and GAAP net income increased by 134% to $167 million. However, the stock dropped 3.65% as its Technology Platform revenue declined by 27% due to a major client loss, leading to an overall 'earnings miss' perception despite the strong top-line growth.",
+    "summary": "SoFi reported strong revenue growth but a decline in its Technology Platform revenue, leading to a negative market reaction.",
+    "preliminaryImpact": "MODERATELY_NEGATIVE",
+    "reasoning": "While revenue beat expectations, the decline in a key segment and subsequent stock drop indicate a negative outlook from the market.",
+    "source": "tradersunion.com",
+    "sourceUrl": "https://tradersunion.com/news/sofi-technologies-stock-price-prediction-2025-2030/sofi-to-trade-between-14-80-16-30-with-low-probability-of-upward-movement/"
+  },
+  {
+    "eventTimestamp": "2026-06-18T00:00:00Z",
+    "processedTimestamp": "2026-06-30T20:45:00Z",
+    "ticker": "ONDS",
+    "companyName": "Ondas Inc.",
+    "eventType": "MNA_ACQUISITION",
+    "headline": "Ondas announced a definitive agreement on June 18, 2026, to acquire Cyberhawk, a global leader in drone-based infrastructure inspection, for approximately $125 million.",
+    "summary": "Ondas to acquire Cyberhawk for $125 million.",
+    "preliminaryImpact": "MODERATELY_POSITIVE",
+    "reasoning": "Acquisitions can be seen as a positive sign of growth and expansion.",
+    "source": "insidermonkey.com",
+    "sourceUrl": "https://www.insidermonkey.com/blog/ondas-inc-onds-to-acquire-cyberhawk-innovations-for-125-million-in-cash-and-stock-1282119/"
+  },
+  {
+    "eventTimestamp": "2026-06-29T00:00:00Z",
+    "processedTimestamp": "2026-06-30T21:00:00Z",
+    "ticker": "INTC",
+    "companyName": "Intel Corporation",
+    "eventType": "UNSCHEDULED_POSITIVE_EVENT",
+    "headline": "Intel shareholder lawsuit over foundry business dismissed by judge",
+    "summary": "A federal judge dismissed a shareholder lawsuit against Intel that alleged the company misled investors about its foundry business.",
+    "preliminaryImpact": "MODERATELY_POSITIVE",
+    "reasoning": "The dismissal of a shareholder lawsuit removes legal uncertainty and potential financial liability for the company.",
+    "source": "investing.com",
+    "sourceUrl": "https://www.investing.com/news/stock-market-news/intel-shareholder-lawsuit-over-foundry-business-dismissed-by-judge-3326402"
+  },
+  {
+    "eventTimestamp": "2026-06-29T00:00:00Z",
+    "processedTimestamp": "2026-06-30T21:15:00Z",
+    "ticker": "SPCX",
+    "companyName": "Space Exploration Technologies Corp.",
+    "eventType": "CREDIT_RATING_DOWNGRADE",
+    "headline": "SpaceX corporate bonds plunge, approach 'junk' status",
+    "summary": "SpaceX's corporate bonds are plunging and approaching 'junk' status following a massive bond offering.",
+    "preliminaryImpact": "HIGHLY_NEGATIVE",
+    "reasoning": "A credit rating downgrade, especially to 'junk' status, significantly increases the company's cost of capital and signals financial distress.",
+    "source": "futunn.com",
+    "sourceUrl": "https://futunn.com/en/community/post/10001099"
+  }
+]
